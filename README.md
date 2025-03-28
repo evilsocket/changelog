@@ -13,3 +13,7 @@ Run from inside a git repository folder with:
 # use with -q to only print the changelog markdown and disable logs
 nerve run changelog -q
 ```
+
+In action:
+
+[![asciicast](https://asciinema.org/a/710433.svg)](https://asciinema.org/a/710433)
