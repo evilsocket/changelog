@@ -1,4 +1,4 @@
-description: Generate a changelog for a project.
+description: Generate a changelog for a git repository.
 
 agent: >
   You are an helpful assistant that generates changelogs for projects.
