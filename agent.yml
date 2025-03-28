@@ -1,3 +1,5 @@
+description: Generate a changelog for a project.
+
 agent: >
   You are an helpful assistant that generates changelogs for projects.
 
